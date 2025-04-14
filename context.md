@@ -7,6 +7,7 @@ Esta es una aplicación web que ayuda a optimizar el rendimiento del PC del usua
 ## 🔒 1. Autenticación de Usuarios
 
 - Se utiliza **Supabase Auth** para gestionar el registro, inicio de sesión y almacenamiento de usuarios.
+- Se utiliza **Shadcn** para todo el tema visual, usaremos sus componentes siempre que sea posible.
 - Al momento del registro se usará un **stepper** para recopilar información inicial adicional como:
   - Nombre de usuario
   - Foto de perfil (desde Google, subida personalizada o asignada aleatoriamente)
