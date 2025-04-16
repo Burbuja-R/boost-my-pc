@@ -10,7 +10,7 @@
 ## 2. Autenticación con Supabase
 
 - [x] Configurar cliente Supabase y middleware
-- [ ] Crear página de inicio de sesión
+- [x] Crear página de inicio de sesión
 - [ ] Crear proceso de registro con stepper:
   - [ ] Formulario de información básica (correo, contraseña)
   - [ ] Selección/carga de foto de perfil
