@@ -4,6 +4,8 @@
 
 - [x] Inicializar proyecto Next.js 15
 - [x] Configurar Tailwind CSS y Shadcn UI
+  - [x] Implementar tema claro/oscuro con next-themes
+  - [x] Configurar ThemeProvider y ThemeToggle
 - [x] Configurar estructura de carpetas siguiendo Clean Architecture
 - [x] Configurar variables de entorno para Supabase
 
